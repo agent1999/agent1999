@@ -1,2 +1,2 @@
 - 👋 Bonjour, je suis @agent1999, étudiant en 3ème année de licence informatique.
-- 👀 Vous trouverez sur mon git le code et des vidéos de démonstration de mes projets effectués à l'université.
+- 👀 Vous trouverez sur mon git le code source des différents projets éffectués à l'université
